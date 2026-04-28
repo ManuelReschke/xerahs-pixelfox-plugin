@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+artifacts/
+.idea/
+.vscode/
+*.user
+*.suo
+*.nupkg
+*.snupkg
+*.xsdp
